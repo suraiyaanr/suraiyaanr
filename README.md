@@ -20,7 +20,7 @@ I'm major in Information System Engineering💻
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-black?style=flat-square&logo=phpmyadmin)
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
-
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ### Connect with me on: 
 <table>
     <div>
