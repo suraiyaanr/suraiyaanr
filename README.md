@@ -1,8 +1,8 @@
 
-## Hey 👋, I am [Suraiya Anuar](https://suraiyaanr.github.io/)
+## Hey 👋, I am [Suraiya Anuar](https://suraiyaanr.github.io/) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suraiyaanr.suraiyaanr">
 I'm a System Developer💻 
 <br>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suraiyaanr.suraiyaanr">
+
 
 🌱 I'm currently working on PHP framework and upgrading my back-end skills.</br>
 &nbsp;📍  &nbsp;Malaysia</br>
